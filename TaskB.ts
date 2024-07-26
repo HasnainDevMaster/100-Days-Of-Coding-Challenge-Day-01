@@ -25,7 +25,7 @@
 
 *Finally, we use console.log(message) to display the message in the console when the code runs.
 *The output will be the customized greeting with the person’s name.*/
- 
+
 let studentName: string = "Sam";
 let message: string = `Hello ${studentName}, would you like to learn some Python today?`;
 console.log(message);
